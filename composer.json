@@ -9,6 +9,9 @@
       "email": "boombroono@gmail.com"
     }
   ],
+  "require": {
+    "php": "^7"
+  },
   "autoload": {
     "psr-4": {
       "Antbank\\TransactionInterchange\\": "src"

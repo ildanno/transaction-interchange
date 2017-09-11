@@ -1,0 +1,17 @@
+{
+  "name": "antbank/transaction-interchange",
+  "description": "Definition of interfaces with the purpose of facilitating development of libraries which extracts cash transactions",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gianbruno Calcafava",
+      "email": "boombroono@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Antbank\\TransactionInterchange\\": "src"
+    }
+  }
+}
